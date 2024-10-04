@@ -1,0 +1,25 @@
+Grading rubric for homework assignment #4
+
+(*) 'Camera.cpp' compilation and code quality
+  -- Code compiles without errors or warnings using the MSVC compiler
+  -- Code compiles without errors or warnings using the g++ compiler
+  -- Heading of all files contain the required assignment information
+  -- Uses good coding practices
+(/5)
+
+(*) Correctness of 'Camera' class
+  -- Class constructor and member functions are implemented correctly
+(/5)
+
+(*) Efficiency of 'Camera' class
+  -- Code is reasonably efficient
+(/5)
+
+(*) Correctness of 'Camera' helper functions
+  -- Class helper functions are implement correctly
+(/5)
+
+(*) Efficiency of 'Camera' helper functions
+  -- Code is reasonably efficient
+(/5)
+
